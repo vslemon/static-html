@@ -1,0 +1,91 @@
+body {
+    background-color: grey;
+    }
+
+.page {
+    width: 780px;
+    margin: auto;
+    font-size: 14px;
+    font-family: 'Source sans Pro', Calibri, Tahoma, sans-serif;
+    border: 5px solid #3388CC;
+    border-radius: 10px;
+    box-shadow: 2px 4px 3px black;
+    padding: 20px;
+    background-color: white;
+}
+
+.infophoto {
+    height: 250px;
+}
+
+.info {
+    float: left;
+    font-size: 18px;
+}
+
+.photo {
+    float: right;
+}
+
+.section {
+    margin-bottom: 70px;
+    text-align: justify;
+}
+
+.section-left {
+    float: left;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.section-right {
+    margin-left: 300px;
+    margin-top: 38px;
+    
+}
+
+h2 {
+    font-size: 28px;
+    color: #3388BB;
+    border-bottom: 3px solid #3388BB
+}
+
+.title {
+    font-weight: bold;
+    font-size: 15px;    
+}
+
+#form-ed-l p{
+    margin-bottom: 31px;
+}
+#form-ed-r p{
+    margin-left: 30px;
+    margin-bottom: 15px;
+}
+
+#form-sem-r p{
+    margin-left: 30px;
+    margin-bottom: 25px;
+}
+#form-sem-l p{
+    margin-bottom: 23px;
+}
+
+#form-t p{
+    margin-left: 30px;
+}
+
+#form-rec-l p{
+    margin-bottom: 23px;
+}
+#form-rec-r p{
+    margin-left: 30px;
+    margin-bottom: 25px;
+}
+
+#form-exp-l p{
+    margin-bottom: 25px;
+}
+#form-exp-r p{
+    margin-bottom: 18px;
+}
